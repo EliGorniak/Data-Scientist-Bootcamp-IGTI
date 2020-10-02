@@ -2,11 +2,7 @@
 ![picture alt](Images/data_scientist_badge.png "Badge")
 # Data Scientist Bootcamp :chart_with_upwards_trend::globe_with_meridians:
 
----
 
-#### IGTI
-
----
 - This repository is dedicated to all activities done during the Data Scientist Bootcamp promoted by IGTI - Institute of Management and Information Technology - Brazil.
 - https://www.igti.com.br/custom/bootcamp-cientista-de-dados/
 - All the online classes and materials are in Brazilian Portuguese, but the activities here are presented in English.
