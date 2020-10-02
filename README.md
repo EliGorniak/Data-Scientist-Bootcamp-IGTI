@@ -27,3 +27,5 @@ The bootcamp consists of 148 hours (from Sept 2020 to Nov 2020) divided into 5 m
 All modules are composed by online classes and activities to reinforce the student's knowledge. The activities are:
 - [x] Practical Work - A activity that uses applications and tools as a way to pratice the teorical content.
 - [x] Challenge - A special activity that defies the student to seek answers while improving the knowledge received during classes.
+
+---
