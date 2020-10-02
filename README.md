@@ -1,4 +1,4 @@
-![picture alt](Data Scientist Badge.png "Badge")
+![picture alt](/Data Scientist Badge.png "Badge")
 # Data Scientist Bootcamp 
 #### IGTI
 
@@ -8,8 +8,14 @@ https://www.igti.com.br/custom/bootcamp-cientista-de-dados/
 The entire bootcamp is in Brazilian Portuguese, but the activities here are presented in English.
 
 ---
+
+### Status
+Under development.
+
+---
+
 ### Bootcamp Roadmap
-![picture alt](Bootcamp Roadmap.png "Roadmap")
+![picture alt](/Bootcamp Roadmap.png "Roadmap")
 
 --- 
 
